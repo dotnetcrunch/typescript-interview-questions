@@ -273,4 +273,4 @@ You can also share this list of typescript interview questions and answers with 
 ### Bonus Content
 In case you are interested in a step by step typescript tutorial then navigate to our tutorial space:
 
-👉 [TypeScript Tutorial](https://tutorials.dotnetcrunch.in/typescript-get-started/) 
+👉 [TypeScript Tutorial](https://tutorialsnest.com/typescript-get-started/) 
